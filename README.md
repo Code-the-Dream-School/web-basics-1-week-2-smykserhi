@@ -6,17 +6,17 @@ Create issues on the link below on the parent repo if you are stuck and want to 
 
 This one should be fun(-ish).
 
-1. Wireframe out the front-page of your personal portfolio page with any tool you choose. It should contain links to other pages, maybe some information about yourself, possibly some information about your portfolio. Don't worry about color, font, or content yet. Just think about the sections you need and a basic layout for the web.
++1. Wireframe out the front-page of your personal portfolio page with any tool you choose. It should contain links to other pages, maybe some information about yourself, possibly some information about your portfolio. Don't worry about color, font, or content yet. Just think about the sections you need and a basic layout for the web.
 
-2. Inside of your forked assignment repository create an issue, called "Wireframe for portfolio" and attach a screenshot of your portfolio front page wireframe to the issue ticket. 
++2. Inside of your forked assignment repository create an issue, called "Wireframe for portfolio" and attach a screenshot of your portfolio front page wireframe to the issue ticket. 
 
-3. Clone, and install your repository on your machine. 
++3. Clone, and install your repository on your machine. 
 
-4. Create and checkout a new git branch from your machine in your repository called 'setup'
++4. Create and checkout a new git branch from your machine in your repository called 'setup'
 
-5. Correctly link a styles.css and an index.js javascript files into your index.html page. 
++5. Correctly link a styles.css and an index.js javascript files into your index.html page. 
 
-6. In the javascript file create a function that displays an alert that says "Welcome to a new journey and my new site" (or anything you want to alert really. 
++6. In the javascript file create a function that displays an alert that says "Welcome to a new journey and my new site" (or anything you want to alert really. 
 
 7. Add and commit your changes. Create a commit message that says, "Added files and set up javascript alert". Push your branch back up to your remote by using the git push origin setup. 
 
