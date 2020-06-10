@@ -18,7 +18,7 @@ This one should be fun(-ish).
 
 +6. In the javascript file create a function that displays an alert that says "Welcome to a new journey and my new site" (or anything you want to alert really. 
 
-7. Add and commit your changes. Create a commit message that says, "Added files and set up javascript alert". Push your branch back up to your remote by using the git push origin setup. 
++7. Add and commit your changes. Create a commit message that says, "Added files and set up javascript alert". Push your branch back up to your remote by using the git push origin setup. 
 
 8. Using what you know about HTML and CSS try begin trying to create an HTML structure that might match your wireframe. Think in sections and chunks and how sections are divided into subsections. Give divs class names that match your sections and reuse class names where it makes sense. 
 
