@@ -26,11 +26,11 @@ This one should be fun(-ish).
 
 +10. Add and commit your changes. Create a commit message that says, "Checked in some css and html". Push your branch back up to your remote by using the git push origin setup. 
 
-11. Create a pull request from your new setup branch back into master. Approve your pull request. 
++11. Create a pull request from your new setup branch back into master. Approve your pull request. 
 
-12. Checkout your master branch. Run 'git pull origin master'. 
++12. Checkout your master branch. Run 'git pull origin master'. 
 
-13. If when viewing your master branch you have all of your changes from the setup branch on your master branch congratulations, you've made it through the second week! I'm sure you have a lot of questions about layout, responsinvesns,  and all of the things you can do with css. Ask away at your mentor sessions, explore, etc.. This is an anitmation done in pure css drawings, with no images, just code. https://css-art.com/loving-car-pure-css-with-animation/
++13. If when viewing your master branch you have all of your changes from the setup branch on your master branch congratulations, you've made it through the second week! I'm sure you have a lot of questions about layout, responsinvesns,  and all of the things you can do with css. Ask away at your mentor sessions, explore, etc.. This is an anitmation done in pure css drawings, with no images, just code. https://css-art.com/loving-car-pure-css-with-animation/
  
 
 
