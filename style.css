@@ -1,3 +1,7 @@
+/*---------------- Main Section*/
+h1{
+    text-align: center;
+}
 nav div {
     
     position: fixed;
@@ -19,9 +23,6 @@ nav img{
     margin-top: 5px;
     color: black;
     
-   
-    
-    
 }
 a{
     text-decoration: none;
@@ -31,6 +32,7 @@ a:hover{
     text-decoration: underline;
 }
 .nav_links{
+    
     margin-right: 40px;
     float: right;
     list-style: none;
@@ -41,10 +43,8 @@ a:hover{
     border: solid 1px;
     padding: 5px;
     border-radius: 15px;
-    font-size: 110%;
-    padding: 5px;
-    
-    
+    font-size: 140%;
+    padding: 5px;  
     
 }
 main{
@@ -83,4 +83,91 @@ main{
     box-shadow: 5px 5px #9f5c5c;
     z-index: 5;
     
+}
+/*-----------------Skills section*/
+.my_skills{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 110%;
+    text-align: center;
+    padding: 5%;
+    
+    
+}
+.my_skills p{
+   font-size: 130%; 
+    
+}
+.my_skills h1{
+    font-size: 200%
+}
+.skills_container{
+    
+    display:flex;
+    justify-content: center;
+}
+
+.discription{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+    border: solid 5px;
+    border-radius: 15px;
+    padding: 10px;
+    padding-top: 15px;
+    width: 20%;
+    
+}
+.discription p{
+    text-align: center;
+    
+    
+}
+.discription img{
+    padding: 5px;
+    border: solid 2px;
+    border-radius: 10px;
+    height: 50px;    
+}
+/*---------------------------Example section*/
+.works{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(white, #e6902a);
+}
+.work_header{
+    font-size: 160%;
+    
+}
+.work_exapmle{
+    display: flex;
+    flex-direction: column;
+}
+
+.work_figure img{    
+    width: 400px;
+    border: 3px solid;
+    border-radius: 10px;
+    padding: 3px;
+    height: 200px;
+}
+.work_figure{
+    display: flex; 
+       
+}
+.work_contact{    
+    margin-top: 15px;
+    border: 3px solid;
+    padding: 10px 105px;
+    border-radius: 10px;    
+}
+.work_contact h2{
+    padding: 0;
+    font-size: 180%;
+    line-height: 0;
 }
